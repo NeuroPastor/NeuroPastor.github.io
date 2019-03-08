@@ -1,6 +1,8 @@
 ---
-title: New my custom post
+title: Пробы и ошибки
 layout: post
+tags: Тесты
+description: Это какое то мудрое и всеобъемлющее описание поста.
 ---
 
 # This is h1. May be:)
