@@ -3,6 +3,24 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "_posts"
+		},
+		{
+			"path": "_includes"
+		},
+		{
+			"path": "_layouts"
+		},
+		{
+			"path": "_site"
+		},
+		{
+			"path": "assets"
+		},
+		{
+			"path": "tag"
 		}
 	]
 }
