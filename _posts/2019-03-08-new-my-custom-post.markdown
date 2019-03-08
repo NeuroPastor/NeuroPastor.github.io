@@ -9,10 +9,10 @@ Otherwise this is test typography post.
 
 >code sample
 {:.filename}
-{% highlight php linenos %}:
-	Foreach($a as $b=>$c){
-		echo $b."=>".$c
-	}
+{% highlight php linenos %}
+Foreach($a as $b=>$c){
+	echo $b."=>".$c
+}
 {% endhighlight %}
 
-Thats all was megashit coding ;)
+Thats all was #*_megashit_*# coding ;)
