@@ -1,0 +1,882 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"img",
+				"imgLink\t(create.php)"
+			],
+			[
+				"main",
+				"mainbanner.png"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"Itera",
+				"iterationCount"
+			],
+			[
+				"emails",
+				"emailsCount"
+			],
+			[
+				"email",
+				"emailsArr"
+			],
+			[
+				"preven",
+				"preventDefault\t(custom.js)"
+			],
+			[
+				"news",
+				"newsItem"
+			],
+			[
+				"params",
+				"paramsWrap"
+			],
+			[
+				"user",
+				"Users"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"param_",
+				"param_val"
+			],
+			[
+				"utm_",
+				"utm_campaign"
+			],
+			[
+				"PHP",
+				"PHP_EOL"
+			],
+			[
+				"target",
+				"targetPath"
+			],
+			[
+				"image",
+				"imageUrl"
+			],
+			[
+				"dz-",
+				"dz-image"
+			],
+			[
+				"imag",
+				"imagesDropdownZone.svg"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"profile",
+				"profileType"
+			],
+			[
+				"logo",
+				"logo__black--big\t(register.html)"
+			],
+			[
+				"alert--",
+				"alert--block\t(registersuccess.html)"
+			],
+			[
+				"radio",
+				"radioDot.svg"
+			],
+			[
+				"city-",
+				"city-registersuccess.svg"
+			],
+			[
+				"check",
+				"checked\t(register.html)"
+			],
+			[
+				"sele",
+				"selectizeFocus"
+			],
+			[
+				"ey",
+				"eye_semicolor.svg"
+			],
+			[
+				"eye",
+				"eye.svg"
+			],
+			[
+				"form",
+				"formtitle\t(register.html)"
+			],
+			[
+				"drop",
+				"dropdown\t(selectize.js)"
+			],
+			[
+				"selectizeDr",
+				"selectizeDropOpen"
+			],
+			[
+				"ba",
+				"background\t(_media.scss)"
+			],
+			[
+				"chec",
+				"checkboxArrow.svg"
+			],
+			[
+				"reg",
+				"registerScreen\t(register.html)"
+			],
+			[
+				"evtu",
+				"evtuhovjpg\t(main.scss)"
+			],
+			[
+				"white",
+				"whiteBlock\t(main.scss)"
+			],
+			[
+				"menu",
+				"menuopener"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"welco",
+				"welcome--img\t(index.html)"
+			],
+			[
+				"block",
+				"blocktitle"
+			],
+			[
+				"offset-",
+				"offset-lg-2"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"about",
+				"aboutPath.svg\t(index.html)"
+			],
+			[
+				"ab",
+				"aboutPath.svg"
+			],
+			[
+				"fi",
+				"firstScreen.svg"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"ral",
+				"raleway-medium.ttf"
+			],
+			[
+				"desc",
+				"description\t(index.html)"
+			],
+			[
+				"e",
+				"enoround16.png\tw:668 h:424"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"json",
+				"json_encode\t(nps-createnewletter.php)"
+			],
+			[
+				"ema",
+				"emailRecipients"
+			],
+			[
+				"save",
+				"saveConfig"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"posts",
+				"postsArray"
+			],
+			[
+				"tmpl",
+				"template_id"
+			],
+			[
+				"banner",
+				"banner_img"
+			],
+			[
+				"banne",
+				"banner_link"
+			],
+			[
+				"ban",
+				"banner_img"
+			],
+			[
+				"cat_",
+				"cat_block"
+			],
+			[
+				"tpm",
+				"tmplts"
+			],
+			[
+				"te",
+				"template_id"
+			],
+			[
+				"JSON",
+				"JSON.stringify"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"create",
+				"createmodal"
+			],
+			[
+				"post",
+				"postid"
+			],
+			[
+				"type",
+				"typeOf"
+			],
+			[
+				"pos",
+				"postid"
+			],
+			[
+				"add",
+				"addSelected"
+			],
+			[
+				"ajax",
+				"ajaxBlock"
+			],
+			[
+				"date",
+				"date_create\t(class-np-sender-installer.php)"
+			],
+			[
+				"nps",
+				"nps-list.php"
+			],
+			[
+				"np_se",
+				"np_sender_installer\t(class-np-sender-installer.php)"
+			],
+			[
+				"class-np-se",
+				"class-np-sender-installer.php"
+			],
+			[
+				"OC",
+				"OCInvoices"
+			],
+			[
+				"code",
+				"codeObj"
+			],
+			[
+				"price",
+				"price_total"
+			],
+			[
+				"total",
+				"price_total"
+			],
+			[
+				"obj",
+				"objCode"
+			],
+			[
+				"count",
+				"countUsed"
+			],
+			[
+				"render",
+				"renderBoolean\t(utils.js)"
+			],
+			[
+				"dis",
+				"discountBeforeFreeDelivery\t(items.grid 2.js)"
+			],
+			[
+				"used",
+				"usedInOrdernum"
+			],
+			[
+				"shopkeeper3",
+				"shopkeeper3promocodes.class.php"
+			],
+			[
+				"Myri",
+				"MyriadProCondRegular.ttf"
+			],
+			[
+				"invoice",
+				"invoice_object"
+			],
+			[
+				"ruswinedays",
+				"ruswinedays—colorized.png\tw:860 h:455"
+			],
+			[
+				"navbar",
+				"navbarPos"
+			],
+			[
+				"gra",
+				"graySlogan"
+			],
+			[
+				"offset",
+				"offsetTop"
+			],
+			[
+				"margin",
+				"marginTop"
+			],
+			[
+				"header",
+				"headerHeight"
+			],
+			[
+				"hea",
+				"headerHeight"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"navba",
+				"navbarHeight"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"stre",
+				"stretch\t(_mixins.scss)"
+			],
+			[
+				"list-style-",
+				"list-style-type"
+			],
+			[
+				"extra",
+				"extra_options"
+			],
+			[
+				"filte",
+				"filter_ajax"
+			],
+			[
+				"req",
+				"request_result"
+			],
+			[
+				"ajax_",
+				"ajax_started"
+			],
+			[
+				"cate",
+				"category_name"
+			],
+			[
+				"commen",
+				"comment_product_client"
+			],
+			[
+				"comme",
+				"comment_product_client"
+			],
+			[
+				"_watch",
+				"_watchOrders"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"_wa",
+				"_watchOrders"
+			],
+			[
+				"orders",
+				"ordersPage"
+			],
+			[
+				"mf",
+				"mf_desc"
+			],
+			[
+				"virtuee",
+				"virtuemart_category_id"
+			],
+			[
+				"pro",
+				"productsArray"
+			],
+			[
+				"custom",
+				"customforall_value_id"
+			],
+			[
+				"virtoe",
+				"virtuemart_custom_id"
+			],
+			[
+				"comment",
+				"comment_c"
+			],
+			[
+				"opt-",
+				"opt-manager'>по\t(connector_fe.php)"
+			],
+			[
+				"preg_ma",
+				"preg_match_all"
+			],
+			[
+				"error",
+				"errorMsg"
+			],
+			[
+				"pri",
+				"priceType"
+			],
+			[
+				"neworder",
+				"neworder"
+			],
+			[
+				"status",
+				"statusLastOrder"
+			],
+			[
+				"doc",
+				"docStock"
+			],
+			[
+				"invo",
+				"invoice_paid"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"invoi",
+				"invoices"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 389.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sftp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"emme",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"bemme",
+				"Expand bemmet abbreviation"
+			],
+			[
+				"waka",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/all_tv_for_product7362_productsParams_b7e69f9ec483c70c64598524007b0914.cache.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/ajaxCatalog_paget-id__00510be0a5a49ea53f80a40fbc56c8d0.cache.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/advSearch101_v1.0.pdf",
+		"/Users/korolev_vasily/Downloads/ContestProfilesShop (1).csv",
+		"/Users/korolev_vasily/Downloads/ContestProfilesShop (5).csv",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/autoload.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Excel5.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Settings 2.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Cell.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Style.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/PHPExcel.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Autoloader.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/mod.export 2.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/autoload_real.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/21pdf.php",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/pages/milk.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/pages/meat.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/config.json",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Bootstrap.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/mailer-daemon_MYSQL.php",
+		"/Users/korolev_vasily/Downloads/casino8march.html",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/sender.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/ClassLoader.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Bootstrap 2.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Spreadsheet.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/mod.export.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/autoload_psr4.php",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/layouts/index-layout.html",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/fonts.css",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/assets/scss/_settings.scss",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/layouts/default.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/src/pages/index.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/pages/bread.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/assets/scss/template/_template.scss",
+		"/Users/korolev_vasily/Downloads/spisok.txt",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/pages/alco.html",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/mailer-daemon.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Settings.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/IOFactory.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/composer 2.json",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/composer.json",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/autoload_classmap.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/autoload_files.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/emails.txt",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/unsubscribelist.txt",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/pages/index.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/src/assets/scss/template/_template.scss",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/example.config.json",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/assets/scss/app.scss",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/ttt.txt",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/.htpasswd",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/configuration 2.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/admintools_breaches.log",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/robots.txt",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/unsubscribe.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/spisok.txt",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/bsport/bsport/src/assets/scss/template/_template.scss",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/28.02.19_log.txt",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/bsport/bsport/dist/basic.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/bsport/bsport/src/pages/basic.html",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/27.02.19_log.txt",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/wp-config.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/.htpasswd 2",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/index.php",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/gulpfile.babel.js",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/README.md",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/dist/index.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/src/layouts/default.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/src/assets/scss/app.scss",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/config.json",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/.htaccess 2",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/.htaccess.admintools",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/configuration-griv.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/.htaccess",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/virtual.conf.manual",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/php.inc",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/configuration.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/main.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/8ba29782bbdc9966265614da2eb4dd76-cache-page-54c42e2455b0fd1c6bc034bfc9e25005.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/.htaccess-akeeba",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/fsg7caf8.txt",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/web.config.txt",
+		"/Users/korolev_vasily/Downloads/roundcube.sql",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/bsport/bsport/config.json",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/bsport/bsport/src/layouts/default.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/bsport/bsport/src/layouts/index-layout.html",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/actions.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/newsItem.tpl",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/textItem.tpl",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/wrap.tpl",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/create.php",
+		"/Users/korolev_vasily/Downloads/рассылка/Fonts/Akrobat/stylesheet.css",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/iiko_transport.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core 4.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core 5.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.inc 2.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/nginx.conf",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core 6.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.inc 3.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core 7.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core 8.php",
+		"/Users/korolev_vasily/retail_russia/app/scss/main.scss",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/bootstrap-editor.js",
+		"/Users/korolev_vasily/ruswinedays/PSD/Векторный смарт-объект.svg",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/parse_virtuemart.php.bak",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/parse_virtuemart.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core 2.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core 3.php",
+		"/Users/korolev_vasily/retail_russia/app/scss/_media.scss",
+		"/Users/korolev_vasily/retail_russia/app/js/common.js",
+		"/Users/korolev_vasily/retail_russia/app/index.html",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/style.css",
+		"/Users/korolev_vasily/Downloads/modx_shopkeeper3_orders.sql",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/xn--b1abqanpbcnemad2q.xn--p1ai.apache2.conf",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/.htaccess",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/.htaccess 2",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/xn--b1abqanpbcnemad2q.xn--p1ai.nginx.conf",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/dzitoev_19.02.html",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/sender.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/iiko_transport.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/error.log",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/config.core 2.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/config.core 3.php",
+		"/Users/korolev_vasily/retail_russia/app/js/scripts.min.js",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/joom.mysql.schema.xml",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/actions.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/metadata.mysql 3.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 261.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "Packages/Default/Syntax Tests.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

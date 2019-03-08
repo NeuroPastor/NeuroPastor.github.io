@@ -1,0 +1,1689 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"img",
+				"imgLink\t(create.php)"
+			],
+			[
+				"main",
+				"mainbanner.png"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"Itera",
+				"iterationCount"
+			],
+			[
+				"emails",
+				"emailsCount"
+			],
+			[
+				"email",
+				"emailsArr"
+			],
+			[
+				"preven",
+				"preventDefault\t(custom.js)"
+			],
+			[
+				"news",
+				"newsItem"
+			],
+			[
+				"params",
+				"paramsWrap"
+			],
+			[
+				"user",
+				"Users"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"param_",
+				"param_val"
+			],
+			[
+				"utm_",
+				"utm_campaign"
+			],
+			[
+				"PHP",
+				"PHP_EOL"
+			],
+			[
+				"target",
+				"targetPath"
+			],
+			[
+				"image",
+				"imageUrl"
+			],
+			[
+				"dz-",
+				"dz-image"
+			],
+			[
+				"imag",
+				"imagesDropdownZone.svg"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"profile",
+				"profileType"
+			],
+			[
+				"logo",
+				"logo__black--big\t(register.html)"
+			],
+			[
+				"alert--",
+				"alert--block\t(registersuccess.html)"
+			],
+			[
+				"radio",
+				"radioDot.svg"
+			],
+			[
+				"city-",
+				"city-registersuccess.svg"
+			],
+			[
+				"check",
+				"checked\t(register.html)"
+			],
+			[
+				"sele",
+				"selectizeFocus"
+			],
+			[
+				"ey",
+				"eye_semicolor.svg"
+			],
+			[
+				"eye",
+				"eye.svg"
+			],
+			[
+				"form",
+				"formtitle\t(register.html)"
+			],
+			[
+				"drop",
+				"dropdown\t(selectize.js)"
+			],
+			[
+				"selectizeDr",
+				"selectizeDropOpen"
+			],
+			[
+				"ba",
+				"background\t(_media.scss)"
+			],
+			[
+				"chec",
+				"checkboxArrow.svg"
+			],
+			[
+				"reg",
+				"registerScreen\t(register.html)"
+			],
+			[
+				"evtu",
+				"evtuhovjpg\t(main.scss)"
+			],
+			[
+				"white",
+				"whiteBlock\t(main.scss)"
+			],
+			[
+				"menu",
+				"menuopener"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"welco",
+				"welcome--img\t(index.html)"
+			],
+			[
+				"block",
+				"blocktitle"
+			],
+			[
+				"offset-",
+				"offset-lg-2"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"about",
+				"aboutPath.svg\t(index.html)"
+			],
+			[
+				"ab",
+				"aboutPath.svg"
+			],
+			[
+				"fi",
+				"firstScreen.svg"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"ral",
+				"raleway-medium.ttf"
+			],
+			[
+				"desc",
+				"description\t(index.html)"
+			],
+			[
+				"e",
+				"enoround16.png\tw:668 h:424"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"json",
+				"json_encode\t(nps-createnewletter.php)"
+			],
+			[
+				"ema",
+				"emailRecipients"
+			],
+			[
+				"save",
+				"saveConfig"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"posts",
+				"postsArray"
+			],
+			[
+				"tmpl",
+				"template_id"
+			],
+			[
+				"banner",
+				"banner_img"
+			],
+			[
+				"banne",
+				"banner_link"
+			],
+			[
+				"ban",
+				"banner_img"
+			],
+			[
+				"cat_",
+				"cat_block"
+			],
+			[
+				"tpm",
+				"tmplts"
+			],
+			[
+				"te",
+				"template_id"
+			],
+			[
+				"JSON",
+				"JSON.stringify"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"create",
+				"createmodal"
+			],
+			[
+				"post",
+				"postid"
+			],
+			[
+				"type",
+				"typeOf"
+			],
+			[
+				"pos",
+				"postid"
+			],
+			[
+				"add",
+				"addSelected"
+			],
+			[
+				"ajax",
+				"ajaxBlock"
+			],
+			[
+				"date",
+				"date_create\t(class-np-sender-installer.php)"
+			],
+			[
+				"nps",
+				"nps-list.php"
+			],
+			[
+				"np_se",
+				"np_sender_installer\t(class-np-sender-installer.php)"
+			],
+			[
+				"class-np-se",
+				"class-np-sender-installer.php"
+			],
+			[
+				"OC",
+				"OCInvoices"
+			],
+			[
+				"code",
+				"codeObj"
+			],
+			[
+				"price",
+				"price_total"
+			],
+			[
+				"total",
+				"price_total"
+			],
+			[
+				"obj",
+				"objCode"
+			],
+			[
+				"count",
+				"countUsed"
+			],
+			[
+				"render",
+				"renderBoolean\t(utils.js)"
+			],
+			[
+				"dis",
+				"discountBeforeFreeDelivery\t(items.grid 2.js)"
+			],
+			[
+				"used",
+				"usedInOrdernum"
+			],
+			[
+				"shopkeeper3",
+				"shopkeeper3promocodes.class.php"
+			],
+			[
+				"Myri",
+				"MyriadProCondRegular.ttf"
+			],
+			[
+				"invoice",
+				"invoice_object"
+			],
+			[
+				"ruswinedays",
+				"ruswinedays—colorized.png\tw:860 h:455"
+			],
+			[
+				"navbar",
+				"navbarPos"
+			],
+			[
+				"gra",
+				"graySlogan"
+			],
+			[
+				"offset",
+				"offsetTop"
+			],
+			[
+				"margin",
+				"marginTop"
+			],
+			[
+				"header",
+				"headerHeight"
+			],
+			[
+				"hea",
+				"headerHeight"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"navba",
+				"navbarHeight"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"stre",
+				"stretch\t(_mixins.scss)"
+			],
+			[
+				"list-style-",
+				"list-style-type"
+			],
+			[
+				"extra",
+				"extra_options"
+			],
+			[
+				"filte",
+				"filter_ajax"
+			],
+			[
+				"req",
+				"request_result"
+			],
+			[
+				"ajax_",
+				"ajax_started"
+			],
+			[
+				"cate",
+				"category_name"
+			],
+			[
+				"commen",
+				"comment_product_client"
+			],
+			[
+				"comme",
+				"comment_product_client"
+			],
+			[
+				"_watch",
+				"_watchOrders"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"_wa",
+				"_watchOrders"
+			],
+			[
+				"orders",
+				"ordersPage"
+			],
+			[
+				"mf",
+				"mf_desc"
+			],
+			[
+				"virtuee",
+				"virtuemart_category_id"
+			],
+			[
+				"pro",
+				"productsArray"
+			],
+			[
+				"custom",
+				"customforall_value_id"
+			],
+			[
+				"virtoe",
+				"virtuemart_custom_id"
+			],
+			[
+				"comment",
+				"comment_c"
+			],
+			[
+				"opt-",
+				"opt-manager'>по\t(connector_fe.php)"
+			],
+			[
+				"preg_ma",
+				"preg_match_all"
+			],
+			[
+				"error",
+				"errorMsg"
+			],
+			[
+				"pri",
+				"priceType"
+			],
+			[
+				"neworder",
+				"neworder"
+			],
+			[
+				"status",
+				"statusLastOrder"
+			],
+			[
+				"doc",
+				"docStock"
+			],
+			[
+				"invo",
+				"invoice_paid"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"invoi",
+				"invoices"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<?php\n'profile_name' => 'Лучшая ярмарка',\n'profile_name' => \"Лучший торговый город\",\n'profile_name' => \"Лучшая торговая улица\",\n'profile_name' => \"Лучший розничный рынок\",\n'profile_name' => \"Лучший объект фаст-фуда\",\n'profile_name' => \"Лучший мобильный торговый объект\",\n'profile_name' => \"Лучший нестационарный торговый объект\",\n'profile_name' => \"Лучший магазин\",\n\n//Номинация «Лучший торговый город»\n$l['ContestProfilesCity'] = array(\n\t\t\t\t\t\t\t\t'profile_name' => \"Лучший торговый город\",\n\t\t\t\t\t\t\t\t'name' => 'Наименование муниципального образования',\n\t\t\t\t\t\t\t\t'name_subject' => 'Наименование субъекта Российской Федерации',\n\t\t\t\t\t\t\t\t'count_retail_objects' => 'Количество торговых объектов и объектов общественного питания',\n\t\t\t\t\t\t\t\t'count_retail_objects' => array('all' => 'Всего','nonstationery' => 'Нестационарные','stationery' => 'Стационарные'),\n\t\t\t\t\t\t\t\t'streets_count' => 'Количество торговых улиц',\n\t\t\t\t\t\t\t\t'retail_objects_alco_count' => 'Количество торговых объектов и объектов общественного питания, имеющих лицензию на розничную продажу алкогольной продукции',\n\t\t\t\t\t\t\t\t'abuse' => 'Жалобы предпринимателей на действия органов государственной власти субъекта Российской Федерации и органов местного самоуправления',\n\t\t\t\t\t\t\t\t'orders_bigger_5_years' => 'Сроки договоров на размещение нестационарных торговых объектов составляют не менее 5 лет',\n\t\t\t\t\t\t\t\t'compensation' => 'Предусмотрено предоставление компенсационного места в случае необходимости задействования места размещения нестационарного торгового объекта для государственных нужд',\n\t\t\t\t\t\t\t\t'prolongation' => 'Обеспечена возможность продления права на размещение нестационарного торгового объекта без повторного проведения торгов',\n\t\t\t\t\t\t\t\t'post_address' => 'Почтовый адрес',\n\t\t\t\t\t\t\t\t'feedback' => 'Положительные отзывы',\n\t\t\t\t\t\t\t\t);\n\n\n//Номинация «Лучшая ярмарка»\n$l['ContestProfilesFair'] = array(\n\t\t\t\t\t\t\t\t'profile_name' => 'Лучшая ярмарка',\n\t\t\t\t\t\t\t\t'name_organizer' => 'Наименование организатора',\n\t\t\t\t\t\t\t\t'name_fair' => 'Название ярмарки (в случае отсутствия - «нет»)',\n\t\t\t\t\t\t\t\t'name' => 'Наименование муниципального образования',\n\t\t\t\t\t\t\t\t'name_subject' => 'Наименование субъекта Российской Федерации',\n\t\t\t\t\t\t\t\t'address' => 'Адрес проведения',\n\t\t\t\t\t\t\t\t'specialization' => 'Общая специализация ярмарки:\t',\n\t\t\t\t\t\t\t\t'timesInYear' => 'Частота проведения (раз в году)',\n\t\t\t\t\t\t\t\t'days_in_year' => 'Общая продолжительность проведения (дней в году)',\n\t\t\t\t\t\t\t\t'members_all' => 'Количество участников ярмарки',\n\t\t\t\t\t\t\t\t'members_array' = array('citizens' => 'граждан', 'farmers' => 'крестьянских фермерских хозяйств','business' => 'индивидуальных предпринимателей и юридических лиц'),>\n\t\t\t\t\t\t\t\t'howcost' => array('name' => 'Наименование', 'cost' => 'Стоимость'),\n\t\t\t\t\t\t\t\t'post_address' => 'Почтовый адрес (необходим в случае отправки диплома победителя/буклета конкурса)',\n\t\t\t\t\t\t\t\t);\n\n//Номинация «Лучший объект фаст-фуда»\n$l['ContestProfilesFastFood'] =  array(\n\t\t\t\t\t\t\t\t\t\t'profile_name' => \"Лучший объект фаст-фуда\",\n\t\t\t\t\t\t\t\t\t\t'owner_info' => 'Информация о владельце (индивидуальный предприматель или юридическое лицо)',\n\t\t\t\t\t\t\t\t\t\t'name_retail_object' => 'Название торгового объекта',\n\t\t\t\t\t\t\t\t\t\t'name' => 'Наименование муниципального образования',\n\t\t\t\t\t\t\t\t\t\t'name_subject' => 'Наименование субъекта Российской Федерации',\n\t\t\t\t\t\t\t\t\t\t'address' => 'Адрес торгового объекта',\n\t\t\t\t\t\t\t\t\t\t'type' => 'Тип торгового объекта:',\n\t\t\t\t\t\t\t\t\t\t'year' => 'Год начала работы торгового объекта',\n\t\t\t\t\t\t\t\t\t\t'post_address' => 'Почтовый адрес (необходим в случае отправки диплома победителя/буклета конкурса)',\n\t\t\t\t\t\t\t\t\t);\n\n\n//Номинация «Лучший розничный рынок»\n$l['ContestProfilesMarketplace'] = array(\n\t\t\t\t\t\t\t\t\t\t'profile_name' => \"Лучший розничный рынок\",\n\t\t\t\t\t\t\t\t\t\t'name_organizer' => 'Информация об управляющей компании (с указанием организационно-правовой формы)',\n\t\t\t\t\t\t\t\t\t\t'name_marketplace' => 'Название рынка (в случае отсутствия - «нет»)',\n\t\t\t\t\t\t\t\t\t\t'name' => 'Наименование муниципального образования',\n\t\t\t\t\t\t\t\t\t\t'name_subject' => 'Наименование субъекта Российской Федерации',\n\t\t\t\t\t\t\t\t\t\t'address' => 'Адрес проведения (включая почтовый индекс)',\n\t\t\t\t\t\t\t\t\t\t'type' => 'Тип розничного рынка:',\n\t\t\t\t\t\t\t\t\t\t'members' => array( 'all' => 'Количество торговых мест всего',\n                                                  \t\t    'farm' => 'Количество торговых мест под сельскохозяйственную продукцию и продукты питания',\n                                                    \t\t'nonfood' => 'Количество торговых мест под непродовольственные товары'),\n\t\t\t\t\t\t\t\t\t\t'fill' => array('novapr' => 'Средняя заполняемость в холодный сезон (ноябрь-апрель)',\n                                                 \t\t'mayoct' => 'Средняя заполняемость в теплый сезон (май-октябрь)'),\n\t\t\t\t\t\t\t\t\t\t'products' => 'Основные виды продукции/товаров, реализуемых на рынке',\n\t\t\t\t\t\t\t\t\t\t'season' => 'Наличие уличной сезонной торговли плодоовощной продукцией (в т.ч., в формате ярмарки при розничном рынке)';,\n\t\t\t\t\t\t\t\t\t\t'howcost' => array('name' => 'Наименование', 'cost' => 'Стоимость'),\n\t\t\t\t\t\t\t\t\t\t'post_address' => 'Почтовый адрес (необходим в случае отправки диплома победителя/буклета конкурса)',\n\t\t\t\t\t\t\t\t\t);\n\n//Номинация «Лучший мобильный торговый объект»\n$l['ContestProfilesMobile'] = array(\n\t\t\t\t\t\t\t\t\t'profile_name' => \"Лучший мобильный торговый объект\",\n\t\t\t\t\t\t\t\t\t'owner_info' => 'Информация о владельце (индивидуальный предприматель или юридическое лицо)',\n\t\t\t\t\t\t\t\t\t'name_retail_object' => 'Название торгового объекта',\n\t\t\t\t\t\t\t\t\t'name' => 'Наименование муниципального образования',\n\t\t\t\t\t\t\t\t\t'name_subject' => 'Наименование субъекта Российской Федерации',\n\t\t\t\t\t\t\t\t\t'address' => 'Адрес, маршрут (при наличии)',\n\t\t\t\t\t\t\t\t\t'type' => 'Тип мобильного торгового объекта:',\n\t\t\t\t\t\t\t\t\t'func_characters' => 'Функциональные характеристики мобильного торгового объекта',\n\t\t\t\t\t\t\t\t\t'manufacturer' => 'производитель',\n\t\t\t\t\t\t\t\t\t'year' => 'год выпуска',\n\t\t\t\t\t\t\t\t\t'eco_class' => 'экологический класс',\n\t\t\t\t\t\t\t\t\t'post_address' => 'Почтовый адрес (необходим в случае отправки диплома победителя/буклета конкурса)',\n\t\t\t\t\t\t\t\t);\n\n//Номинация «Лучший нестационарный торговый объект»\n$l['ContestProfilesNonStationery'] = array(\n\t\t\t\t\t\t\t\t\t\t'profile_name' => \"Лучший нестационарный торговый объект\",\n\t\t\t\t\t\t\t\t\t\t'owner_info' => 'Информация о владельце (индивидуальный предприматель или юридическое лицо)',\n\t\t\t\t\t\t\t\t\t\t'name_retail_object' => 'Название торгового объекта',\n\t\t\t\t\t\t\t\t\t\t'name' => 'Наименование муниципального образования',\n\t\t\t\t\t\t\t\t\t\t'name_subject' => 'Наименование субъекта Российской Федерации',\n\t\t\t\t\t\t\t\t\t\t'address' => 'Адрес торгового объекта (вкл. почтовый индекс)',\n\t\t\t\t\t\t\t\t\t\t'type' => 'Тип нестационарного торгового объекта:',\n\t\t\t\t\t\t\t\t\t\t'year' => 'Год возведения',\n\t\t\t\t\t\t\t\t\t\t'contract5' => 'Срок договора на размещение нестационарного торгового объекта не менее 5 лет',\n\t\t\t\t\t\t\t\t\t\t'contract_long' => 'укажите срок договора (кол-во лет и месяцев)',\n\t\t\t\t\t\t\t\t\t\t'require_appearance' => 'Требования к внешнему виду',\n\t\t\t\t\t\t\t\t\t\t'compensation' => 'Предусмотрено предоставление компенсационного места',\n\t\t\t\t\t\t\t\t\t\t'extension' => 'Обеспечена возможность продления права на размещение нестационарного торгового объекта без повторного проведения торгов',\n\t\t\t\t\t\t\t\t\t\t'design' => 'Типовой дизайн для нестационарного торгового объекта утвержден правовым актом органа местного самоуправления',\n\t\t\t\t\t\t\t\t\t\t'design_owner' => 'Дизайн нестационарного торгового объекта разработан владельцем\t',\n\t\t\t\t\t\t\t\t\t\t'post_address' => 'Почтовый адрес (необходим в случае отправки диплома победителя/буклета конкурса)',\n\t\t\t\t\t\t\t\t\t);\n\n//Номинация «Лучший магазин»\n$l['ContestProfilesShop']\t= array(\n\t\t\t\t\t\t\t\t'profile_name' => \"Лучший магазин\",\n\t\t\t\t\t\t\t\t'owner_info' => 'Информация о владельце (индивидуальный предприматель или юридическое лицо)',\n\t\t\t\t\t\t\t\t'name_retail_object' => 'Название магазина',\n\t\t\t\t\t\t\t\t'name' => 'Наименование муниципального образования',\n\t\t\t\t\t\t\t\t'name_subject' => 'Наименование субъекта Российской Федерации',\n\t\t\t\t\t\t\t\t'address' => 'Адрес магазина (вкл. почтовый индекс)',\n\t\t\t\t\t\t\t\t'area' => 'Торговая площадь (м2)',\n\t\t\t\t\t\t\t\t'showcase' => 'У магазина есть собственные витрины',\n\t\t\t\t\t\t\t\t'private_entrance' => 'У магазина есть отдельный вход',\n\t\t\t\t\t\t\t\t'own_sign' => 'У магазина есть собственная вывеска',\n\t\t\t\t\t\t\t\t'firm' => 'Магазин является фирменным магазином производителя',\n\t\t\t\t\t\t\t\t'conception' => 'Опишите концепцию магазина (1-2 предложения)',\n\t\t\t\t\t\t\t\t'post_address' => 'Почтовый адрес (необходим в случае отправки диплома победителя/буклета конкурса)',\n\t\t\t\t\t\t\t);\n//Номинация «Лучшая торговая улица»\n$l['ContestProfilesStreet'] = array( \n\t\t\t\t\t\t\t\t\t'profile_name' => \"Лучшая торговая улица\",\n\t\t\t\t\t\t\t\t\t'name' => 'Наименование муниципального образования',\n\t\t\t\t\t\t\t\t\t'name_subject' => 'Наименование субъекта Российской Федерации',\n\t\t\t\t\t\t\t\t\t'address' => 'Адрес торговой улицы',\n\t\t\t\t\t\t\t\t\t'count_retail_objects' => array('all' => 'Всего','nonstationary' => 'Нестационарные','stationary' => 'Стационарные'),\n\t\t\t\t\t\t\t\t\t'street_length' => 'Протяженность торговой улицы (м)',\n\t\t\t\t\t\t\t\t\t'street_category' => 'Категория улицы',\n\t\t\t\t\t\t\t\t\t'property_first_floor' => 'торговые объекты расположены в объектах капитального строительства на первых этажах или в нестационарных торговых объектах',\n\t\t\t\t\t\t\t\t\t'property_first_floor' => array('yes' => 'имеют','no' => 'не имеют'),\n\t\t\t\t\t\t\t\t\t'property_exit' => 'собственный выход на улицу',\n\t\t\t\t\t\t\t\t\t'property_exit' => array('yes' => 'имеют','no' => 'не имеют'),\n\t\t\t\t\t\t\t\t\t'property_barrier' => 'собственные витрины, вывески',\n\t\t\t\t\t\t\t\t\t'property_showcase'= >array('yes' => 'имеют','no' => 'не имеют'),\n\t\t\t\t\t\t\t\t\t'property_barrier' => 'крыльцо, ступеньки и иные препятствия для доступа посетителей с тротуара в торговые объекты',\n\t\t\t\t\t\t\t\t\t'property_barrier' => array('yes' => 'имеют','no' => 'не имеют'),\n\t\t\t\t\t\t\t\t\t'post_address' => 'Почтовый адрес (необходим в случае отправки диплома победителя/буклета конкурса)'\n\t\t\t\t\t\t\t);\n\n\n\nreturn $l;",
+			"settings":
+			{
+				"buffer_size": 9869,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/style.css",
+			"settings":
+			{
+				"buffer_size": 116574,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/custom.css",
+			"settings":
+			{
+				"buffer_size": 8906,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/alert_order.php",
+			"settings":
+			{
+				"buffer_size": 445,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "### Hello!\n\n",
+			"settings":
+			{
+				"buffer_size": 12,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1308,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/iiko_transport.php",
+			"settings":
+			{
+				"buffer_size": 3456,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "var newWin = window.open(\"https://ya.ru\", \"hello\", \"width=200,height=200, scrollbars=no,resizeable=no,status=no,location=no,menubar=no,toolbar=no, dialog=no, titlebar=no\");\n",
+			"settings":
+			{
+				"buffer_size": 173,
+				"line_ending": "Unix",
+				"name": "var newWin = window.open(\"https://ya.ru\", \"hello\","
+			}
+		},
+		{
+			"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/readme.txt",
+			"settings":
+			{
+				"buffer_size": 809,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/advsearch.class.php",
+			"settings":
+			{
+				"buffer_size": 27584,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/advsearchform.class.php",
+			"settings":
+			{
+				"buffer_size": 15324,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/advsearchhooks.class.php",
+			"settings":
+			{
+				"buffer_size": 24778,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/advsearchresults.class.php",
+			"settings":
+			{
+				"buffer_size": 41202,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/advsearchsolrconfig.php",
+			"settings":
+			{
+				"buffer_size": 337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "[21:01, 7.3.2019] Марина Проклова: icfwestham@mail.ru\n[21:02, 7.3.2019] Марина Проклова: ekaterinatkachuk@gmail.com\n[21:02, 7.3.2019] Марина Проклова: tomskuy1990@mail.ru\n[21:03, 7.3.2019] Марина Проклова: olgasolodovnik3@gmail.com\n[21:03, 7.3.2019] Марина Проклова: yanashulyak8@gmail.com\n[21:04, 7.3.2019] Марина Проклова: sb-pshitova@mail.ru\n[21:05, 7.3.2019] Марина Проклова: sskrebnev@vitsm.ru\n[21:05, 7.3.2019] Марина Проклова: armarex@yandex.ru\n[21:05, 7.3.2019] Марина Проклова: gma2340@list.ru\n[21:06, 7.3.2019] Марина Проклова: sashkara@gmail.com\n[21:09, 7.3.2019] Марина Проклова: iolrhovik@nescospb.ru\n[21:09, 7.3.2019] Марина Проклова: spate@rambler.ru\n[21:09, 7.3.2019] Марина Проклова: sofia20695@mail.ru\n[21:09, 7.3.2019] Марина Проклова: vardanyand@mail.ru\n[21:09, 7.3.2019] Марина Проклова: belleshopo@mail.ru\n[21:09, 7.3.2019] Марина Проклова: belleshopo@gmail.com\n\n\ntep314@rambler.ru",
+			"settings":
+			{
+				"buffer_size": 903,
+				"line_ending": "Unix",
+				"name": "[21:01, 7.3.2019] Марина Проклова: icfwestham@mail"
+			}
+		},
+		{
+			"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/all_tv_for_product7457_productsParams_b7e69f9ec483c70c64598524007b0914.cache.php",
+			"settings":
+			{
+				"buffer_size": 2115,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 389.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sftp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"emme",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"bemme",
+				"Expand bemmet abbreviation"
+			],
+			[
+				"waka",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/korolev_vasily/Documents/my snippets"
+	],
+	"file_history":
+	[
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/all_tv_for_product7362_productsParams_b7e69f9ec483c70c64598524007b0914.cache.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/ajaxCatalog_paget-id__00510be0a5a49ea53f80a40fbc56c8d0.cache.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/advSearch101_v1.0.pdf",
+		"/Users/korolev_vasily/Downloads/ContestProfilesShop (1).csv",
+		"/Users/korolev_vasily/Downloads/ContestProfilesShop (5).csv",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/autoload.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Excel5.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Settings 2.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Cell.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Style.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/PHPExcel.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Autoloader.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/mod.export 2.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/autoload_real.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/21pdf.php",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/pages/milk.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/pages/meat.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/config.json",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Bootstrap.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/mailer-daemon_MYSQL.php",
+		"/Users/korolev_vasily/Downloads/casino8march.html",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/sender.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/ClassLoader.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Bootstrap 2.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Spreadsheet.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/mod.export.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/autoload_psr4.php",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/layouts/index-layout.html",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/fonts.css",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/assets/scss/_settings.scss",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/layouts/default.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/src/pages/index.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/pages/bread.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/assets/scss/template/_template.scss",
+		"/Users/korolev_vasily/Downloads/spisok.txt",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/pages/alco.html",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/mailer-daemon.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/Settings.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/IOFactory.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/composer 2.json",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/composer.json",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/autoload_classmap.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/autoload_files.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/emails.txt",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/unsubscribelist.txt",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/pages/index.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/src/assets/scss/template/_template.scss",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/example.config.json",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/assets/scss/app.scss",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/ttt.txt",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/.htpasswd",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/configuration 2.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/admintools_breaches.log",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/robots.txt",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/unsubscribe.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/spisok.txt",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/bsport/bsport/src/assets/scss/template/_template.scss",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/28.02.19_log.txt",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/bsport/bsport/dist/basic.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/bsport/bsport/src/pages/basic.html",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/27.02.19_log.txt",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/wp-config.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/.htpasswd 2",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/index.php",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/gulpfile.babel.js",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/README.md",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/dist/index.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/src/layouts/default.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/src/assets/scss/app.scss",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/demo/config.json",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/.htaccess 2",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/.htaccess.admintools",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/configuration-griv.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/.htaccess",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/virtual.conf.manual",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/php.inc",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/configuration.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/main.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/8ba29782bbdc9966265614da2eb4dd76-cache-page-54c42e2455b0fd1c6bc034bfc9e25005.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/.htaccess-akeeba",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/fsg7caf8.txt",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/web.config.txt",
+		"/Users/korolev_vasily/Downloads/roundcube.sql",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/bsport/bsport/config.json",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/bsport/bsport/src/layouts/default.html",
+		"/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/bsport/bsport/src/layouts/index-layout.html",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/actions.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/newsItem.tpl",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/textItem.tpl",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/wrap.tpl",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/create.php",
+		"/Users/korolev_vasily/Downloads/рассылка/Fonts/Akrobat/stylesheet.css",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/iiko_transport.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core 4.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core 5.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.inc 2.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/nginx.conf",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core 6.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.inc 3.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core 7.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core 8.php",
+		"/Users/korolev_vasily/retail_russia/app/scss/main.scss",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/bootstrap-editor.js",
+		"/Users/korolev_vasily/ruswinedays/PSD/Векторный смарт-объект.svg",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/parse_virtuemart.php.bak",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/parse_virtuemart.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core 2.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/config.core 3.php",
+		"/Users/korolev_vasily/retail_russia/app/scss/_media.scss",
+		"/Users/korolev_vasily/retail_russia/app/js/common.js",
+		"/Users/korolev_vasily/retail_russia/app/index.html",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/style.css",
+		"/Users/korolev_vasily/Downloads/modx_shopkeeper3_orders.sql",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/xn--b1abqanpbcnemad2q.xn--p1ai.apache2.conf",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/.htaccess",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/.htaccess 2",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/xn--b1abqanpbcnemad2q.xn--p1ai.nginx.conf",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/dzitoev_19.02.html",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/sender.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/iiko_transport.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/error.log",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/config.core 2.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/config.core 3.php",
+		"/Users/korolev_vasily/retail_russia/app/js/scripts.min.js",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/joom.mysql.schema.xml",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/actions.php",
+		"/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-3/metadata.mysql 3.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 261.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"engine",
+			"\",",
+			"\\s",
+			"charset",
+			"code",
+			"char",
+			"getSelectedCells",
+			"getstyle",
+			"style",
+			", ",
+			"\"",
+			"$head",
+			"</label>",
+			"</div>",
+			"<div class=\"biglabel\">",
+			"<div class=\"inline\">",
+			"<div class=\"biglabel\">",
+			"</div>",
+			"<div class=\"biglabel\">",
+			"<div class=\"inline\">",
+			"<div class=\"biglabel\">",
+			"</div>",
+			"<div class=\"biglabel\">",
+			"<div class=\"inline\">",
+			"<div class=\"biglabel\">",
+			"</div>",
+			"<div class=\"biglabel\">",
+			"<div class=\"inline\">",
+			"<div class=\"biglabel\">",
+			"</div>",
+			"[a-zA-Z0-9\\-\\_\\.]+@[a-zA-Z0-9\\-\\_]+\\.port25\\.com\\n",
+			"postmaster@[a-zA-Z0-9\\-\\_]+\\.[a-zA-Z0-9]+\\n",
+			"postmaster@[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\n",
+			"postmaster@[a-zA-Z0-9]+\\.[a-zA-Z0-9]+",
+			"\\./[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.email\\:2\\,S?\\:",
+			"abuse@corp.mail.ru\\n",
+			"[a-zA-Z0-9\\-\\_]+@retailweek.email\\n",
+			"\\./[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.email\\:2\\,\\:",
+			"noreply@retailweek.email\\n",
+			"[a-zA-Z0-9\\-\\_]+@ih1366964.vds.myihor.ru\\n",
+			"[a-zA-Z0-9\\-\\_]+@ih1366964.vds.myihor.ru",
+			"\\./[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.ru\\:2\\,S\\:",
+			"\\./[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.ru\\:2\\,\\:",
+			"\\./[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.vds\\.myihor\\.ru\\:2\\,\\:noreply@retailweek.email\\n",
+			"\\./[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.[a-zA-Z0-9]+\\.vds\\.myihor\\.ru\\:2\\,\\:noreply@retailweek.email",
+			"redbir",
+			"red",
+			"@icloud.com",
+			"H=retailweek.email",
+			"\\n\\s+",
+			"\\n\\s",
+			"\\s?\\n\\s?",
+			"(a.grizlova@backaldrin.ru\\n|donchenko.sv@good-foo.ru\\n|emironenko@mbm.ru\\n|ev.kim@lotte.net\\n|gorshkov@cdc-art.com\\n|info@biskottu.ru\\n|info@dentral.ru\\n|info@mbbaker.ru\\n|info@royal--forest.org\\n|info@siriuscandy.ru\\n|info@themay.ru\\n|info@theobroma.net\\n|info@tokyo-bay.ru\\n|karagodina@dimax.moscow\\n|kkipa@kkipa365.ru\\n|komkova@realtransformation.ru\\n|kond@amb.company\\n|mail@xn--ruscho-1wa.ru\\n|marina.bulaeva@jde-coffe.com\\n|market@kkpz.su\\n|marketing@ruchleb.ru\\n|misha@instelligence.ru\\n|mos@gmail.com\\n|n.kudryaeva@togasgroup.ru\\n|office@predo.org\\n|ooohimtek2016@mail.ru\\n|oov@mineconom.rzn.ru\\n|osman@floragroup.ogr\\n|ptm@mineconom.rzn.ru\\n|safneva@safneva.ru\\n|sale@krendel.info\\n|sale@rfid.ru\\n|shibaeva@augustpress.ru\\n|smolskaya@umalat.ru\\n|spankina@groupleduff.com\\n|tatiana.yoon@hoisgroup.com\\n|tortila@tortilannov.ru\\n|zakaz@suhoed.ru)",
+			"|",
+			"(a.grizlova@backaldrin.ru|donchenko.sv@good-foo.ru|emironenko@mbm.ru|ev.kim@lotte.net|gorshkov@cdc-art.com|info@biskottu.ru|info@dentral.ru|info@mbbaker.ru|info@royal--forest.org|info@siriuscandy.ru|info@themay.ru|info@theobroma.net|info@tokyo-bay.ru|karagodina@dimax.moscow|kkipa@kkipa365.ru|komkova@realtransformation.ru|kond@amb.company|mail@xn--ruscho-1wa.ru|marina.bulaeva@jde-coffe.com|market@kkpz.su|marketing@ruchleb.ru|misha@instelligence.ru|mos@gmail.com|n.kudryaeva@togasgroup.ru|office@predo.org|ooohimtek2016@mail.ru|oov@mineconom.rzn.ru|osman@floragroup.ogr|ptm@mineconom.rzn.ru|safneva@safneva.ru|sale@krendel.info|sale@rfid.ru|shibaeva@augustpress.ru|smolskaya@umalat.ru|spankina@groupleduff.com|tatiana.yoon@hoisgroup.com|tortila@tortilannov.ru|zakaz@suhoed.ru)",
+			"(a.grizlova@backaldrin.ru|\ndonchenko.sv@good-foo.ru|\nemironenko@mbm.ru|\nev.kim@lotte.net|\ngorshkov@cdc-art.com|\ninfo@biskottu.ru|\ninfo@dentral.ru|\ninfo@mbbaker.ru|\ninfo@royal--forest.org|\ninfo@siriuscandy.ru|\ninfo@themay.ru|\ninfo@theobroma.net|\ninfo@tokyo-bay.ru|\nkaragodina@dimax.moscow|\nkkipa@kkipa365.ru|\nkomkova@realtransformation.ru|\nkond@amb.company|\nmail@xn--ruscho-1wa.ru|\nmarina.bulaeva@jde-coffe.com|\nmarket@kkpz.su|\nmarketing@ruchleb.ru|\nmisha@instelligence.ru|\nmos@gmail.com|\nn.kudryaeva@togasgroup.ru|\noffice@predo.org|\nooohimtek2016@mail.ru|\noov@mineconom.rzn.ru|\nosman@floragroup.ogr|\nptm@mineconom.rzn.ru|\nsafneva@safneva.ru|\nsale@krendel.info|\nsale@rfid.ru|\nshibaeva@augustpress.ru|\nsmolskaya@umalat.ru|\nspankina@groupleduff.com|\ntatiana.yoon@hoisgroup.com|\ntortila@tortilannov.ru|\nzakaz@suhoed.ru)",
+			"\\n\\n",
+			"isbc.ru",
+			"serge@nasekom.ru",
+			",",
+			"\\n",
+			"\\n\\s",
+			"\\s",
+			"&amp;",
+			"important",
+			"editor",
+			"#editor",
+			"localhost.example.com",
+			"torgovlyarosii.rf",
+			"&amp;",
+			"thumb-wrap",
+			"#pages",
+			"#owl",
+			"footer",
+			".text",
+			"(",
+			"),",
+			"selectize",
+			"src=\"/uploads/\"",
+			"<img ",
+			"xn--b1abqanpbcnemad2q.xn--p1ai",
+			"register",
+			"mb-",
+			".btn",
+			"-green",
+			"input",
+			"ih1366964.vds.myihor.ru",
+			".info",
+			"info:",
+			"info =",
+			"info",
+			" SMTPSecure",
+			"SMTPSecure",
+			"toJson",
+			" error",
+			"newObject",
+			" toarray",
+			"{{",
+			"utm_campaign=nrr2019",
+			"getObject",
+			"getObje",
+			"save(",
+			"xPDOObject",
+			" toPlaceholders",
+			"'modChunk'",
+			"MODX_CORE_PATH",
+			"MODX_BASE_PATH",
+			"_loadElement",
+			"modChunk",
+			"getObjec",
+			"$modx",
+			"$this->modx",
+			"$this->modx =",
+			"->modx->",
+			" getObject",
+			" getOption",
+			"chunk(",
+			"chunk",
+			"MODX_",
+			"getOption",
+			"getChunk",
+			"makePlaceholders",
+			"$placeholders",
+			"setPlaceholder",
+			"setPla",
+			"parser",
+			"function parser",
+			"getElement"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\",\"",
+			"\",",
+			"",
+			"\\n",
+			"'",
+			"$l",
+			"",
+			"\\n",
+			"",
+			"\\n|",
+			"",
+			"\\n",
+			", ",
+			",",
+			"\\n",
+			"",
+			"&",
+			"baron-food.com",
+			"russiant.org",
+			"&",
+			"thumb-wrap2",
+			"#pages2",
+			"#owl2",
+			"",
+			"src=\"\"",
+			"\\n<img ",
+			"torgovlyarosii.rf",
+			"utm_campaign=nrr2019&utm_content={{date}}",
+			"PROJECT_CORE_PATH",
+			"PROJECT_BASE_PATH",
+			"->xpdo->",
+			"xpdo",
+			",\\n",
+			".html?utm_source=retailweek.email&utm_medium=email&utm_campaign=nrr2019\"",
+			"'dbtype' => 'varchar',\n                      'precision' => '100',"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8209,
+								8209
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/korolev_vasily/retailweek-newsletter/retailweek--demo/congress_hleb/hleb/src/pages",
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 116574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105100,
+								105100
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 32567.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8345,
+								8345
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5667.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/alert_order.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2",
+							"incomplete_sync": null,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 92.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/iiko_transport.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								6
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								173
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var newWin = window.open(\"https://ya.ru\", \"hello\",",
+							"default_dir": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/readme.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/advsearch.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								721,
+								723
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/advsearchform.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/advsearchhooks.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/advsearchresults.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8266,
+								8270
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/advsearchsolrconfig.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								886,
+								886
+							]
+						],
+						"settings":
+						{
+							"auto_name": "[21:01, 7.3.2019] Марина Проклова: icfwestham@mail",
+							"default_dir": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/private/var/folders/p0/554h02sx0r92xljsnw5y95t00000gn/T/fz3temp-2/all_tv_for_product7457_productsParams_b7e69f9ec483c70c64598524007b0914.cache.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								28
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "Packages/Default/Syntax Tests.sublime-build",
+	"project": "my_snippets.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
